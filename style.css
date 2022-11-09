@@ -292,7 +292,7 @@ hr{
 
 @media (min-width:900px) {
     body{
-        overflow-y: visible;
+        overflow-y: visible !important;
     }
     .main-section .img-desktop{
         display: block;
